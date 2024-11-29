@@ -59,4 +59,4 @@ firstName = str(input('Enter first name: '))
 lastName = str(input('Enter last name: '))
 age = str(input('Enter age: '))
 
-print(help('keywords'))
+help('keywords')
